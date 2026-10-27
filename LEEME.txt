@@ -1,0 +1,16 @@
+MI MUEBLE IDEAL — LANDING PAGE
+
+ARCHIVOS
+- index.html: estructura de la página
+- styles.css: estilos adaptables a celular y computadora
+- script.js: botones y mensajes de WhatsApp
+
+ANTES DE PUBLICAR
+1. Abre script.js.
+2. Busca: const WHATSAPP_NUMBER = "51999999999";
+3. Reemplaza el número de ejemplo por tu número real de WhatsApp, con código de país y solo números. Para Perú usa 51 + tu número, sin +, espacios ni guiones.
+4. Abre index.html en tu navegador para probarla.
+
+Los botones de los modelos redactan automáticamente una consulta específica para ese ropero.
+Las fotos son referenciales y requieren conexión a internet para cargarse.
+Para publicar gratis, puedes subir estos tres archivos a GitHub Pages o Netlify.
